@@ -6,5 +6,8 @@ def menu():
     print("[1] Agregar")
     print("[2] Buscar")
     print("[0] Salir")
+    print("[0] Salir")
+    print("[0] Salir")
+    
     
     
